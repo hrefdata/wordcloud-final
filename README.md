@@ -2,10 +2,10 @@
 
 - 팀 구성원
 
-| frontend                                   | backend                                   |
-| ------------------------------------------ | ----------------------------------------- |
-| 🐶 [김종원](https://github.com/jonnygim)   | 🐱 [손현오](https://github.com/SonHyeono) |
-| 🐔 [정지현](https://github.com/jjhyunjung) | 🐰 [김진주](https://github.com/dingdoooo) |
+| frontend                                                                                                                          | backend                                   |
+| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| 🐶 [김종원](https://github.com/jonnygim)                                                                                          | 🐱 [손현오](https://github.com/SonHyeono) |
+| <img src="https://pic.sopili.net/pub/emoji/twitter/2/72x72/1f42f.png" width=20 height=20> [정지현](https://github.com/jjhyunjung) | 🐰 [김진주](https://github.com/dingdoooo) |
 
 - 서비스 소개 :**_형태소 분석을 통한 키워드 추출🚀_**
 
